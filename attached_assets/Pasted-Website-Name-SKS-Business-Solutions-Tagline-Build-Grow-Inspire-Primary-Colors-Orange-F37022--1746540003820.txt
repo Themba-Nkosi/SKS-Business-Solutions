@@ -1,0 +1,123 @@
+Website Name: SKS Business Solutions
+Tagline: Build. Grow. Inspire.
+Primary Colors:
+
+Orange #F37022
+
+Charcoal Black #1A1A1A
+
+White #FFFFFF
+
+Light Grey #D9D9D9
+
+🧭 Site Pages and Sections
+1. Home
+Hero banner with company logo and slogan: "Build. Grow. Inspire."
+
+Background image of a building/construction site with diagonal orange overlays.
+
+CTA Buttons: Explore Services | Contact Us
+
+2. About Us
+Legacy: Humble beginnings, family-owned values.
+
+Purpose: "To inspire a more resilient world."
+
+Values with Icons:
+
+Care – Make Things Better
+
+Honour – Keep Your Word
+
+Impact – Perform in the Best Way
+
+3. Our Services
+List of service areas with icons or vertical cards:
+
+Civil Works
+
+Construction
+
+Electrical Works
+
+General Building Maintenance & Upgrades
+
+Vegetation Management
+
+Brief under each category explaining SKS’s hands-on, turnkey solutions.
+
+4. Project Experience
+Text section + bulleted list layout:
+
+“Over 33 projects completed worth R30M+”
+
+General Building Construction
+
+Plumbing Maintenance
+
+Civil Maintenance
+
+Electrical Maintenance
+
+Waterproofing, Fencing, Paving
+
+Horticulture, Glazing, Vegetation
+
+5. Our Impact
+Showcase job creation and community development:
+
+500+ Jobs created
+
+Skills upliftment
+
+Inclusion of women, youth, and persons with disabilities
+
+Township & Rural Revitalization:
+
+"Employing locals, sourcing from local hardware stores, and subcontracting local businesses."
+
+6. Key Clients
+Display logos in a horizontal/slider section:
+
+AfriSam, Eskom, Telkom, Prasa
+
+City of Joburg, Growthpoint, Gauteng Province (Dept. of Infrastructure Development)
+
+7. Our Story / Founder Section
+“Business founded by a person living with disability who built the business with purpose, resilience, and commitment.”
+
+Quote style or card layout with the founder’s photo and a personal touch.
+
+8. Contact Us
+Split layout:
+Left:
+
+📞 011 674 0922
+
+✉️ sksbus@gmail.com
+
+📍 Head Office: 1163 Frans Venter Street, Eternia Avenue, Roodepoort 1709
+
+Right (Branch Info):
+
+North West: 195 Thabo Mbeki St, Rustenburg North, 0302
+
+Mpumalanga: 1 De Jager St, Volksrust, 2470
+
+NHBRC Reg: 1-378-3220
+Include map, contact form, and email link.
+
+📌 Footer
+“© 2025 SKS Business Solutions. All rights reserved.”
+
+Social Media Icons (if applicable)
+
+Quick Links: Home | About | Services | Projects | Contact
+
+Would you like me to:
+
+Convert this into HTML/CSS code?
+
+Draft individual content blocks for Lovable drag-and-drop editor?
+
+Prepare a downloadable PDF version of this website outline?
